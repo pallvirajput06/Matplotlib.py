@@ -54,7 +54,7 @@ Matplotlib/
 * Present data clearly and effectively.
 * Build a strong foundation for Data Analysis and Data Science.
 
-## ⭐ Connect With Me
+## ⭐ Connect With Me : Pallvi Rajput
 
 If you found this repository useful, don't forget to **Star ⭐** the repository and follow my learning journey.
 
